@@ -1,0 +1,49 @@
+@media(max-width: 1200px){
+    
+    
+}
+
+
+
+
+@media(max-width: 991px ){
+   
+}
+
+
+
+@media (max-width: 767px) {
+   .navbar-brand img {
+        width: 50%;
+    }
+    .form-inline {
+        display: inline !important;}
+    .banner p {
+        font-size: 13px;}
+        .banner h1 {
+            font-size: 20px;}
+            .banner button {
+                margin-top: 20px;
+                padding: 5px 35px;
+                font-size: 14px;
+            }
+            .banner img {
+                width: 50%;
+            }
+            .justify-content-end {
+                justify-content: center !important;
+            }
+    .countBg{
+        margin-bottom: 50px;
+    }
+    .courses .card {
+        margin-left: 50px;
+        margin-bottom: 30px;
+    }
+    .courses .sl-img {
+        width: 21%;
+    }
+    .testimonial .profile-img {
+        width: 25%;
+    }
+}
